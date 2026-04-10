@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AeatherSMP.aternos.me",
-    "port": 33236,
+    "ip": "AeatherSMP.play.hosting",
+    "port": 4539,
     "version": "",
     "try-creative": false
   },
