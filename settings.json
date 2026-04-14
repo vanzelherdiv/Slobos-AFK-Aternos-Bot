@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lizardfish.aternos.host",
+    "ip": "AeatherSMP.aternos.me",
     "port": 33236,
     "version": "26.1.1",
     "try-creative": false
