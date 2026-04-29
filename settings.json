@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zenithsmp.mcsh.io",
-    "port": 10067,
+    "ip": "zenithmc.mcsh.io",
+    "port": 11739,
     "version": "26.1.1",
     "try-creative": false
   },
