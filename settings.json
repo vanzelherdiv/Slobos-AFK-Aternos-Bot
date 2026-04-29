@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Chatgpt",
-    "password": "09465999935!!!",
+    "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "zenithmc.mcsh.io",
+    "ip": "191.96.231.43",
     "port": 11739,
     "version": "26.1.1",
     "try-creative": false
